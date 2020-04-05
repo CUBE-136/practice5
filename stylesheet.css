@@ -1,0 +1,11 @@
+.red{
+    height:256px;
+    width:256px;
+    background-color:#FF0000;
+    width: 10%;
+
+}
+
+.red:hover{
+    background-color: #FF8383;
+}
